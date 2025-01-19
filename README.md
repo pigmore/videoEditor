@@ -1,2 +1,2 @@
-# videoEditor
-free opensource frontend video editor
+# VideoEditor
+Free opensource web-side video editor
